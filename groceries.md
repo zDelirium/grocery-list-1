@@ -8,5 +8,4 @@
 ## Ernest's Suggestions
 - [ ] Sprite
 - [ ] Maynyards
-- [ ] Ramen Noodles
 - [ ] Soju
